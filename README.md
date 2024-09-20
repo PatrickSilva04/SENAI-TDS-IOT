@@ -1,2 +1,2 @@
 # SENAI-TDS
-Criaçaõ de repositório para as aulas de IOT
+Criaçaõ de repositório para as aulas de curso TDS
